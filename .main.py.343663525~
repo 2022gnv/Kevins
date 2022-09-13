@@ -1,0 +1,10 @@
+print("hola,bienvenido a mi trivia sobre los simpsom")
+print("podremos a prueba tu conocimiento simpsoniano ;) ")
+print("Responde las siguientes preguntas escribiendo la letra de la alternativa y presionando *enter* para enviar tu respuesta:\n")
+
+
+print("1)¿Quien andaba en patineta?")
+print("a)lisa simpsom")
+print("b)flanders")
+print("c)bart simpsom")
+      
